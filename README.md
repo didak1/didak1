@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**didak1/didak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a 17-year-old Computer Science student from Spain, currently in my second year of studies. 🚀 I’m passionate about learning programming and building cool projects along the way. 
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
+I'm still exploring the vast world of programming, but here are a few areas I'm focusing on:
+- **Programming Languages:** Python, C, and starting with Javascript.
+- **Web Development:** HTML, CSS, and basic JavaScript for creating dynamic websites.
+- **Problem-Solving:** Practicing algorithms and data structures to improve my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Want to Achieve
+My goals are simple:
+- Learn new programming languages and frameworks.
+- Build projects that can help others or solve real-world problems.
+- Learn from open-source projects to increase my knowledge.
